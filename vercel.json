@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/work", "destination": "/index.html" },
+    { "source": "/skills", "destination": "/index.html" },
+    { "source": "/photography", "destination": "/index.html" },
+    { "source": "/contact", "destination": "/index.html" }
+  ]
+}
